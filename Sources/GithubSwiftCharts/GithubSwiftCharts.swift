@@ -11,7 +11,6 @@ public struct ContributionChartView: View {
         self.totalDays = totalDays
     }
     
-    @available(macOS 10.15, *)
     public var body: some View {
         VStack(alignment: .leading, spacing: 2) {
             ForEach(Array((0..<totalDays / daysPerRow).reversed()), id: \.self) { row in
