@@ -82,5 +82,5 @@ You can use the Swift Package Manager to install ContributionChartView by adding
 .package(url: "https://github.com/your-username/ContributionChartView.git", from: "1.0.0")
 ```
  
-## licance
-Feel free to use or the share this package as you want!
+## License
+Feel free to use or to share this package as you want!
