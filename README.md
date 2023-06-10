@@ -1,4 +1,5 @@
-# Contribution Chart View
+# SwiftUI ContributionChartView
+![cover](https://github.com/Wadie-ess/SwiftGithubChart/blob/main/assets/cover.png)
 
 [![Swift Version](https://img.shields.io/badge/swift-5.0-orange.svg)](https://swift.org/)
 [![Platform](https://img.shields.io/badge/platform-ios%20%7C%20macOS-lightgrey.svg)](https://developer.apple.com/)
