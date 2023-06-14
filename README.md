@@ -40,7 +40,7 @@
 ## Usage 
  - Import the module:
 ``` swift
- import ContributionChartView
+ import GithubSwiftCharts
 ```
  - Create an instance of ContributionChartView:
  ``` swift
