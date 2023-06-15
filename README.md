@@ -1,5 +1,5 @@
 # SwiftUI ContributionChartView
-![cover](https://github.com/Wadie-ess/SwiftGithubChart/blob/main/assets/cover.png)
+![cover](https://github.com/Wadie-ess/ContributionChartView/blob/main/assets/packageCover.png)
 
 
 <b>Contribution Chart View is a SwiftUI package that provides a customizable chart view to display contributions over a period of time, similar to GitHub's contribution chart.<br>
